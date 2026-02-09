@@ -1,9 +1,9 @@
 ## <p align="center">I make what I can, what I love, what I want</p>
 <p align="center">My name is Youngmin Lee, as known as Yuburoll</p>
 
-### Contacts
+### <p align="center">Contacts
 
-[yuburoll@gmail.com](mailto:yuburoll@gmail.com)
+[yuburoll@gmail.com](mailto:yuburoll@gmail.com)</p>
 
 <details>
 <summary>What I can</summary>
