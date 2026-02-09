@@ -2,6 +2,8 @@
 
 My name is Youngmin Lee, aka yuburoll.
 
+I'm currently working on part time indie game art designer.
+
 ### Contacts
 
 [yuburoll@gmail.com](mailto:yuburoll@gmail.com)
