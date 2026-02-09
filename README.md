@@ -67,6 +67,6 @@ I'm currently working on part time indie game artist.
 
 </details>
 
-### 🎫Contacts
+### Contacts
 
 📫[yuburoll@gmail.com](mailto:yuburoll@gmail.com)
