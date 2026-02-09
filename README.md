@@ -1,6 +1,6 @@
-## <p align="center">I make what I can, what I love, what I want</p>
+## I make what I can, what I love, what I want
 
-<p align="center">My name is Youngmin Lee, aka yuburoll.</p>
+My name is Youngmin Lee, aka yuburoll.
 
 ### Contacts
 
