@@ -1,4 +1,4 @@
-<p align="center">## I make what I can, what I love, what I want</p>
+## <p align="center">I make what I can, what I love, what I want</p>
 My name is Youngmin Lee, as known as Yuburoll
 
 ### Contacts
