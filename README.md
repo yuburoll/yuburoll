@@ -1,12 +1,12 @@
 ## <p align="center">I make what I can, what I love, what I want</p>
-My name is Youngmin Lee, as known as Yuburoll
+<p align="center">My name is Youngmin Lee, as known as Yuburoll</p>
 
 ### Contacts
 
 [yuburoll@gmail.com](mailto:yuburoll@gmail.com)
 
 <details>
-**<summary>What I can</summary>**
+<summary>What I can</summary>
 
 * Manhwa Illustrations
 
@@ -33,7 +33,7 @@ My name is Youngmin Lee, as known as Yuburoll
 </details>
 
 <details>
-<summary>**What I love**</summary>
+<summary>What I love</summary>
 
 * Sequential arts and Illusts
 
@@ -58,7 +58,7 @@ My name is Youngmin Lee, as known as Yuburoll
 </details>
 
 <details>
-<summary>**What I want**</summary>
+<summary>What I want</summary>
 
 * Ergonomic Mechanical keyboards
 
