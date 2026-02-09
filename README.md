@@ -1,16 +1,67 @@
-## Hi there 👋
+<p align="center">## I make what I can, what I love, what I want</p>
+My name is Youngmin Lee, as known as Yuburoll
 
-<!--
-**yuburoll/yuburoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contacts
 
-Here are some ideas to get you started:
+[yuburoll@gmail.com](mailto:yuburoll@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>**What I can**</summary>
+
+* Manhwa Illustrations
+
+* Game art
+
+* Live2D modeling & Animations
+
+* Graphic Design
+
+* Book Design
+
+* Product Design
+
+* Audio Plugin Development
+
+* PCB artwork
+
+* C/C++
+
+* JUCE
+
+* 한국어/English/日本語
+
+</details>
+
+<details>
+<summary>**What I love**</summary>
+
+* Sequential arts and Illusts
+
+* Animations
+
+* Vtubers
+
+* Character Design
+
+* Games
+
+* TTRPGs
+
+* Musics
+
+* Audio Engineering
+
+* Architecture
+ 
+* Industrial Design
+
+</details>
+
+<details>
+<summary>**What I want**</summary>
+
+* Ergonomic Mechanical keyboards
+
+* Small handy gadgets
+
+</details>
