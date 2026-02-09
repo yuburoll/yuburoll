@@ -13,9 +13,9 @@ I'm currently working on part time indie game art designer.
 
 * Manhwa Illustrations
 
-* Game art
+* Game Art
 
-* Live2D modeling & Animations
+* Live2D/Spine Modeling & Animation
 
 * Graphic Design
 
@@ -25,7 +25,7 @@ I'm currently working on part time indie game art designer.
 
 * Audio Plugin Development
 
-* PCB artwork
+* PCB Artwork
 
 * C/C++
 
