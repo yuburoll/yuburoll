@@ -1,70 +1,72 @@
 ## I make what I can, what I love, what I want
 
-My name is Youngmin Lee, aka yuburoll.
+My name is Youngmin Lee이영민, aka yuburoll유부말이.
 
-I'm currently working on part time indie game art designer.
+I'm currently working on part time indie game artist.
 
-### Contacts
+### 🎫Contacts
 
-[yuburoll@gmail.com](mailto:yuburoll@gmail.com)
+📫[yuburoll@gmail.com](mailto:yuburoll@gmail.com)
 
 <details>
-<summary>What I can</summary>
+<summary>🛠️What I can</summary>
 
-* Manhwa Illustrations
+* 🎨Illustrations
 
-* Game Art
+* 🎮Game Art
 
-* Live2D/Spine Modeling & Animation
+* 🦾Live2D/Spine Modeling & Animation
 
-* Graphic Design
+* 📱Graphic Design
 
-* Book Design
+* 📚Book Design
 
-* Product Design
+* 💻Product Design
 
-* Audio Plugin Development
+* 🔊Audio Plugin Development
 
-* PCB Artwork
+* 📏PCB Artwork
 
-* C/C++
+* 💻C/C++
 
-* JUCE
+* 🍋‍🟩JUCE
 
-* 한국어/English/日本語
+* 🔤한국어/English/日本語
 
 </details>
 
 <details>
-<summary>What I love</summary>
+<summary>♥️What I love</summary>
 
-* Sequential arts and Illusts
+* 💬Sequential arts and Illusts
 
-* Animations
+* 📼Animations
 
-* Vtubers
+* ⚡Vtubers
 
-* Character Design
+* 🧷Character Design
 
-* Games
+* 🕹️Games
 
-* TTRPGs
+* 🎲TTRPGs
 
-* Musics
+* 😋Gourmet
 
-* Audio Engineering
+* 💽Musics
 
-* Architecture
+* 🎚️Audio Engineering
+
+* 🏗️Architecture
  
-* Industrial Design
+* 📐Industrial Things
 
 </details>
 
 <details>
-<summary>What I want</summary>
+<summary>🎁What I want</summary>
 
-* Ergonomic Mechanical keyboards
+* ⌨️Ergonomic Mechanical keyboards
 
-* Small handy gadgets
+* 🪀Small handy gadgets
 
 </details>
