@@ -4,12 +4,6 @@ My name is Youngmin Lee이영민, aka yuburoll유부말이.
 
 I'm currently working on part time indie game artist.
 
-### 🎫Contacts
-
-📫[yuburoll@gmail.com](mailto:yuburoll@gmail.com)
-
-
-
 <details>
 <summary>🛠️What I can</summary>
 
@@ -72,3 +66,7 @@ I'm currently working on part time indie game artist.
 * 🪀Small handy gadgets
 
 </details>
+
+### 🎫Contacts
+
+📫[yuburoll@gmail.com](mailto:yuburoll@gmail.com)
