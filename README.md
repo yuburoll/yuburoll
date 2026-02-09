@@ -1,5 +1,6 @@
 ## <p align="center">I make what I can, what I love, what I want</p>
-<p align="center">My name is Youngmin Lee, as known as Yuburoll</p>
+
+<p align="center">My name is Youngmin Lee, aka yuburoll.</p>
 
 ### Contacts
 
