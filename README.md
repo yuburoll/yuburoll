@@ -17,7 +17,7 @@ I'm currently working on part time indie game artist.
 
 * 📚Book Design
 
-* 💻Product Design
+* 💻Product Design and Modeling
 
 * 🔊Audio Plugin Development
 
@@ -34,13 +34,13 @@ I'm currently working on part time indie game artist.
 <details>
 <summary>♥️What I love</summary>
 
-* 💬Sequential arts and Illusts
+* 💬Sequential Arts and Illusts
 
 * 📼Animations
 
 * ⚡Vtubers
 
-* 🧷Character Design
+* 🧷Character Design and 3d Modeling
 
 * 🕹️Games
 
